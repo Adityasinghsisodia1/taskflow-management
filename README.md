@@ -55,14 +55,12 @@ An end-to-end, lightweight Agile task management and resource distribution dashb
 ## Quickstart Guide (Local Setup)
 
 ### 1. Clone the Repository
-git clone https://github.com/YOUR_USERNAME/project-tracker.git
+git clone https://github.com/Harshit-Tiwary/project-tracker.git
 cd project-tracker
 
 ### 2. Install Dependencies & Run
 pip install -r requirements.txt
 streamlit run app.py
-
-Open http://localhost:8501 in your browser.
 
 ---
 
